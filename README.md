@@ -1,60 +1,67 @@
-Hello_Microverse
+# Hello Microverse Project
 
-_______________________________________________________________________________
+This project is to help me experiment with linters and create a new repostory. 
 
 
-Additional description about the project and its features.
+.
 
-Built With
-Major languages
-Frameworks
-Technologies used
+## Built With
 
-_______________________________________________________________________________
-Live Demo
-Live Demo Link
-_______________________________________________________________________________
+- HTML and CSS 
+- HTML and CSS linters - stylelint, webhint, lighthouse- 
+- Visual Studio and GitHub
+
+## GITHub Page 
+
+[Github Page Link](https://github.com/Rizwan-learn/Hello_Microverse).
+
+
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
+### Prerequisites - 
+Vist the git hub page [Github Page Link](https://github.com/Rizwan-learn/Hello_Microverse_Project).
 
-Setup
+### Install - 
+If not already downloaded, download Visual Studio, atom or any other IDE source code editor
+It may also help to download GitHub Desktop application 
 
-Install
+### Setup - 
+If Github desktop application is insalled in your device you can download the prokect directly to that. Once downloaded GitHub will give you the option to create a clone of the project, this will then allow you to open said project to your IDE.
 
-Usage
-
-Deployment
-
-
-_______________________________________________________________________________
-👤 Author1
-
-GitHub: @Rizwanhasan.learn  
-
-Twitter: @rizwanhasan21
-
-LinkedIn: Rizwan Hasan
+If you do not have the GitHub desktop application you can download the project as a zip file directly to you computer. when the download is complete extract the folder to a location of your choice. After this you can open you IDE of choice and open the project folder.  
 
 
-_______________________________________________________________________________
-🤝 Contributing
+### Usage
+As this project is to test our knowledge you will have unlimited useage to also learn and practice. 
+
+### Run tests
+test can me ran locally on your meachine by using the run function on your IDE.
+
+### Deployment
+As this is not a formal prject there will be no need of deployment
+
+## Author 👤
+
+- GitHub: [@rizwan-learn](https://github.com/Rizwan-learn)
+- Twitter: [@rizwanhasan21](https://twitter.com/rizwanhasan21)
+- LinkedIn: [rizwanhasan21](https://linkedin.com/in/rizwanhasan21)
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the https://github.com/Rizwan-learn/Hello_Microverse_Project to get the project.
 
+## Show your support
 
-_______________________________________________________________________________
-Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+## Acknowledgments
 
+- Microverse 
 
-_______________________________________________________________________________
-📝 License
-This project is MIT licensed.
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
