@@ -52,7 +52,7 @@ As this is not a formal prject there will be no need of deployment
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the https://github.com/Rizwan-learn/Hello_Microverse_Project to get the project.
+Feel free to check the https://github.com/Rizwan-learn/Hello_Microverse to get the project.
 
 ## Show your support
 
