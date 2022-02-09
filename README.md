@@ -21,7 +21,7 @@ This project is to help me experiment with linters and create a new repostory.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites - 
-Vist the git hub page [Github Page Link](https://github.com/Rizwan-learn/Hello_Microverse_Project).
+Vist the git hub page [Github Page Link](https://github.com/Rizwan-learn/Hello_Microverse).
 
 ### Install - 
 If not already downloaded, download Visual Studio, atom or any other IDE source code editor
